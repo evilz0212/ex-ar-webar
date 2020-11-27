@@ -3,7 +3,7 @@
 
 <!-- tag & links (Version\Lang\Package) -->
 <p align="center">
-    <img src="https://img.shields.io/badge/docker-lastest-8bb7df" alt="AR.js" />
+    <img src="https://img.shields.io/badge/AR.js-lastest-8bb7df" alt="AR.js" />
 </p>
 <p align="center">
     Source：<a href="https://github.com/evilz0212/ex-ar-webar">Github</a>
