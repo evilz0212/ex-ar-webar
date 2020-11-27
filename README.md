@@ -24,8 +24,8 @@
 
 <!-- Get started (Install\Step) -->
 ## Get started
-#### steps
-1. Open the website on your phone
+#### Demo Steps
+1. Open [the website](https://evilz0212.github.io/ex-ar-webar/) on your phone
 2. Scan [this image](https://github.com/evilz0212/ex-ar-webar/blob/master/public/vessel.png)
 
 <!-- Partner -->
