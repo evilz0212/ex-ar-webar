@@ -20,7 +20,7 @@
 
 #### Detail
 -  WebAR：AR.js 圖像追蹤設定
--  A-Frame：glb 模組屬性設定
+-  A-Frame：glb 模組屬性設定、燈光設定
 
 <!-- Get started (Install\Step) -->
 ## Get started
