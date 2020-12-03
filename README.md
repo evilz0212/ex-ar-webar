@@ -11,16 +11,16 @@
 <p>
 
 <!-- Overview (Preview\Purpose\Description) -->
-![WebAR](./public/preview.jpg)
+![WebAR](./public/preview.png)
 
 ## Overview
 #### Target
 1. WebAR 圖像追蹤 (Image Tracking)
-2. 使用 A-Frame 版本，設定模組互動
+2. 使用 A-Frame 版本，設定模組互動(一指旋轉\兩指縮放)
 
 #### Detail
--  WebAR：AR.js 圖像追蹤設定
--  A-Frame：glb 模組屬性設定、燈光設定
+-  WebAR：AR.js 圖像追蹤設定、觸發點擊 UI
+-  A-Frame：glb 模組屬性設定、燈光設定、互動設定
 
 <!-- Get started (Install\Step) -->
 ## Get started
