@@ -11,9 +11,10 @@
 <p>
 
 <!-- Overview (Preview\Purpose\Description) -->
-![WebAR](./public/preview.png)
+![WebAR](./public/preview.jpg)
 
 ## Overview
+> 掃描特定圖像，呈現可互動3D模組
 #### Target
 1. WebAR 圖像追蹤 (Image Tracking)
 2. 使用 A-Frame 版本，設定模組互動(一指旋轉\兩指縮放)
